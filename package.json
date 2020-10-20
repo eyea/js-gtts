@@ -1,0 +1,15 @@
+{
+  "name": "js-gtts",
+  "version": "1.1.0",
+  "description": "内置基础网络请求和提供渲染原生和自定义音频样式的组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TTS",
+    "audio"
+  ],
+  "author": "eyea",
+  "license": "MIT"
+}
